@@ -2,6 +2,7 @@
 npm install -g @angular/cli
 
 ## install application
+cd  instructor-resume-webiste
 npm install 
 
 ## run application
