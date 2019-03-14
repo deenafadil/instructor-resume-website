@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
     templateUrl: 'login.template.html'
 })
 export class LoginComponent {
-    title: string = 'login';
+    title: string = 'Login';
 }
